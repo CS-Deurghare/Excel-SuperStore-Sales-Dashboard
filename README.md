@@ -2,7 +2,6 @@
 
 An interactive sales dashboard built in Microsoft Excel to analyze business performance, sales metrics, and customer trends. 
 
-Learned and created under the guidance of **Satish Dhawale Sir** (*SkillCourse*).
 
 ---
 
@@ -35,5 +34,5 @@ Learned and created under the guidance of **Satish Dhawale Sir** (*SkillCourse*)
 ## 📁 How to View the Dashboard
 
 1. Download or clone this repository.
-2. Open `Super_Store_Sales.xlsx` in Microsoft Excel.
+2. Open `Superstore Data.xlsx` in Microsoft Excel.
 3. Use the slicers on the left menu to interactively filter data.
