@@ -8,7 +8,7 @@ Learned and created under the guidance of **Satish Dhawale Sir** (*SkillCourse*)
 
 ## 📸 Dashboard Overview
 
-![Super Store Sales Dashboard](Dashboard_Image.png)
+![Super Store Sales Dashboard](Dashboard%20Image.png)
 
 ---
 
