@@ -14,12 +14,19 @@ An interactive sales dashboard built in Microsoft Excel to analyze business perf
 ## 📊 Key Features & Metrics
 
 - **KPI Cards:** Displays Total Sales, Sales Average, Total Transactions, and Total Quantity Ordered.
+
 - **Interactive Slicers:** Dynamic filtering by Region (*Central, East, South, West*) and Year (*2014 - 2017*).
+
 - **Sales Insights:**
+
   - **Ship Mode Sales %:** Pie chart breakdown of shipping choices.
+
   - **Region-wise Transactions:** Donut chart distribution across territories.
+
   - **Monthly Quantity Ordered:** Line trend showing month-on-month volume.
+
   - **Top 5 Cities:** Column chart highlighting top revenue-generating cities.
+
   - **Category & Customer Segment:** Bar charts summarizing sales across technology, office supplies, furniture, and customer types.
 
 ---
