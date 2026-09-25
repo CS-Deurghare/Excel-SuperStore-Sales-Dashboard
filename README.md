@@ -3,13 +3,13 @@
 An interactive sales dashboard built in Microsoft Excel to analyze business performance, sales metrics, and customer trends. 
 
 
----
+<br>
 
 ## 📸 Dashboard Overview
 
 ![Super Store Sales Dashboard](Dashboard%20Image.png)
 
----
+<br>
 
 ## 📊 Key Features & Metrics
 
@@ -29,14 +29,14 @@ An interactive sales dashboard built in Microsoft Excel to analyze business perf
 
   - **Category & Customer Segment:** Bar charts summarizing sales across technology, office supplies, furniture, and customer types.
 
----
+<br>
 
 ## 🛠️ Tools & Skills Used
 
 - **Tool:** Microsoft Excel
 - **Techniques:** Pivot Tables, Pivot Charts, Slicers, Custom Formatting, Data Visualization, Layout Design.
 
----
+<br>
 
 ## 📁 How to View the Dashboard
 
